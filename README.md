@@ -3,6 +3,9 @@ Automate Grass mining with this Python bot, managing multiple Devices and IP add
 
 请使用python3运行代码，如不会使用的可前往Releases下载编译后的版本
 
+无代码基础请直接使用带界面版本
+
+
 `pip3 install websockets_proxy`
 
 
@@ -24,6 +27,4 @@ Automate Grass mining with this Python bot, managing multiple Devices and IP add
 打印的就是当前用户的user_id
 
 
-# 无代码基础请直接使用带界面版本
-# 无代码基础请直接使用带界面版本
-# 无代码基础请直接使用带界面版本
+
