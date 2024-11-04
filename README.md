@@ -27,4 +27,9 @@ Automate Grass mining with this Python bot, managing multiple Devices and IP add
 打印的就是当前用户的user_id
 
 
+![image](https://github.com/user-attachments/assets/0a4f189b-01af-410d-9de6-140574e2518b)
 
+
+无代码基础请直接使用Releases带界面版本
+
+![image](https://github.com/user-attachments/assets/ecfb963e-9dd6-4527-a4fc-638f298adeae)
