@@ -1,7 +1,7 @@
 # grass-bot
 Automate Grass mining with this Python bot, managing multiple Devices and IP address to ensure 24/7 uptime and maximize earnings. Perfect for those seeking a seamless and efficient way to handle WebSocket connections through SOCKS5 Protocol
 
-请使用python3运行代码，如不会使用的可前往Releases下载编译后的版本:[Grass-Farm](https://github.com/linlinfabuye/grass-bot/releases/tag/Grass-Farm)
+请使用python3运行代码，如不会使用的可前往Releases下载编译后的版本:[Grass-Farm](https://github.com/linlinfabuye/grass-bot/releases/tag/Grass-Farm)解压密码grass
 
 无代码基础请直接使用带界面版本
 
